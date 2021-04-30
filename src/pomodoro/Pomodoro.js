@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import classNames from "../utils/class-names";
 import useInterval from "../utils/useInterval";
-import { minutesToDuration, secondsToDuration } from "../utils/duration/index";
 import DurationFocus from "./DurationFocus";
 import DurationBreak from "./DurationBreak";
 import TimeControl from "./TimeControl";
@@ -144,7 +142,6 @@ function Pomodoro() {
         isSessionActive={isSessionActive}
         focusDuration={focusDuration}
         breakDuration={breakDuration}
-        isSessionActive={isSessionActive}
         isSessionPause={isSessionPause}
       />
     </div>
