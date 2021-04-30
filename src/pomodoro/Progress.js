@@ -6,7 +6,6 @@ function Progress(props) {
     currentState,
     timer,
     isSessionActive,
-    hadleStopButton,
     focusDuration,
     breakDuration,
     isSessionPause,
