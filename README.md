@@ -12,4 +12,4 @@ Each interval is known as a pomodoro, from the Italian word for tomato, after th
 
 
 
-![Test](https://github.com/doshid20/Pomodoro-Timer/blob/main/Pomodoro_test.png)
+
